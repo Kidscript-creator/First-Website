@@ -1,0 +1,18 @@
+.container {  background: rgba(21, 41, 223, 0.548);
+    width: 890px;
+    padding: 90px;
+    border-radius: 10px;
+    border: solid 10px rgba(255, 255, 255, 0.61);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: bottom;
+
+}
+b1
+    {   color: rgb(223, 44, 12) ;    
+
+     }
+ h1 { color: antiquewhite;
+        background-color: rgb(66, 95, 175);
+    }     
